@@ -5,6 +5,7 @@ namespace PragmaRX\Google2FALaravel\Support;
 use Illuminate\Http\JsonResponse as IlluminateJsonResponse;
 use Illuminate\Http\Response as IlluminateHtmlResponse;
 use PragmaRX\Google2FALaravel\Events\OneTimePasswordRequested;
+use PragmaRX\Google2FALaravel\Events\OneTimePasswordRequestedL53;
 use Symfony\Component\HttpFoundation\Response as SymfonyResponse;
 
 trait Response

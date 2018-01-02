@@ -1,5 +1,9 @@
 ## Change Log
 
+## [0.1.5] - 2017-01-02
+### Add
+- Added missing OneTimePasswordRequestedL53 event.
+
 ## [0.1.4] - 2017-12-05
 ### Add
 - Support Laravel 5.2+
